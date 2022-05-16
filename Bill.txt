@@ -1,0 +1,29 @@
+
+
+			You invested in: Fixed Deposit
+
+			You have invested Rs. : 100000.00
+
+			The maturity amount will be : 122000.00
+
+			You invested in: PPF
+
+			You have invested Rs. : 100000.00
+
+			The maturity amount will be : 2532343.12
+
+			You invested in: Mutual Fund (Lump - Sum)
+
+			You have invested Rs. : 100000.00
+
+			The maturity amount will be : 140640.86
+
+			You invested in: Mutual Fund (SIP)
+
+			You have invested Rs. : 20000.00
+
+			The maturity amount will be : 961746.43
+
+			You bought 287.50 worth stocks
+
+			You have 4719712.50 savings left
